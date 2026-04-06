@@ -1,0 +1,9 @@
+node_modules
+client/node_modules
+server/node_modules
+uploads
+outputs
+server
+.DS_Store
+npm-debug.log*
+*.log
